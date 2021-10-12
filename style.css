@@ -17,6 +17,10 @@ body {
   position: relative;
 }
 
+.static {
+  overflow: hidden;
+}
+
 .container {
   width: 80%;
 }
@@ -236,18 +240,22 @@ footer img{
     width: 100%;
     height: 100vh;
     top: 0;
-    right: 0;
+    left: -100%;
     padding-top: 40px;
     z-index: 5;
     transition: all 0.5s ease;
+  }
+
+  .nav-flex.toggle {
+     left: 0;
+     transition: all 0.5s ease;
   }
 
   .nav-flex ul {
     display: flex;
     flex-direction: column;
    align-items: center;
-   margin-right: 20px;
-   margin-top: 20px;
+   margin-top: 30px;
   }
 
   .nav-flex ul li {
@@ -271,7 +279,6 @@ footer img{
     font-weight: 500;
     line-height: 32px;
     letter-spacing: 0;
-    text-align: right !important;
     margin: 0;
     color: #f8f8f8;
   }
