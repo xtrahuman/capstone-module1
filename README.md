@@ -6,7 +6,7 @@
 > My first Microverse capstone project which is a fundraising program website for children in need
 
 
-Desktop view                            |  Mobile view Header
+Desktop view                            |  Mobile view 
 :--------------------------------------:|:---------------------------------------:
 ![](./public)                           |  ![](./public)
 
