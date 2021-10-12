@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Sponsor a child fundraising Website
+# Sponsor a Child Fundraising Website
 
 ## Description
 > My first Microverse capstone project which is a fundraising program website for children in need
@@ -21,7 +21,7 @@ Desktop view                            |  Mobile view Header
 ## Procedure to clone project
 - open your terminal
 - type git clone https://github.com/xtrahuman/capstone-module1.git
-- type cd portfolio_website to change directory to the folder of the project
+- type cd capstone-module1 to change directory to the folder of the project
 - run the project in your local machine
 
 ## project link
