@@ -103,7 +103,7 @@ body {
 }
 
 .user-details {
-  background-color: #3e3e3e;
+  background-color: #272a31;
   display: flex;
   justify-content: center;
 }
@@ -126,11 +126,11 @@ body {
 
 .navbar a {
   text-decoration: none;
-  color: #3e3e3e;
+  color: #d3d3d3;
 }
 
 .about-head-margin a {
-  color: #282b32;
+  color: #272a31;
   text-decoration: underline;
 }
 
@@ -181,13 +181,13 @@ footer img {
 }
 
 .nav-flex ul li:last-child a {
-  border: 2px solid #f85816;
+  border: 2px solid #ec5242;
   padding: 5px;
-  color: #f85816;
+  color: #ec5242;
 }
 
 .nav-flex a.active {
-  color: #f85816;
+  color: #ec5242;
 }
 
 .main-header {
@@ -221,7 +221,7 @@ footer img {
 .statement {
   margin-top: 25px;
   width: 90%;
-  border: 1px solid#f85816;
+  border: 1px solid#ec5242;
   padding: 10px 0;
 }
 
@@ -231,7 +231,7 @@ footer img {
   align-items: center;
   width: 100%;
   background-image: url(./public/times-patterm.png);
-  background-color: #282b32;
+  background-color: #272a31;
   color: #fff;
   text-align: center;
 }
@@ -271,7 +271,7 @@ footer h2 {
 }
 
 .see-more:hover {
-  color: #f85816;
+  color: #ec5242;
   cursor: pointer;
 }
 
@@ -359,7 +359,7 @@ footer h2 {
 
 p.profile {
   font-size: 12px;
-  color: #f85816;
+  color: #ec5242;
   margin-bottom: 10px;
   display: flex;
   flex-direction: column;
@@ -417,8 +417,8 @@ p.profile-detail {
 }
 
 footer .footer-icon {
-  background-color: #414246;
-  color: #8f8f8f;
+  background-color: #272a31;
+  color: #d3d3d3;
   text-align: center;
 }
 
@@ -447,18 +447,18 @@ footer .footer-icon {
 }
 
 .about-head-margin p.quote {
-  color: #f85816;
+  color: #ec5242;
 }
 
 .about-statement {
-  color: #282b32;
+  color: #272a31;
   background-color: #fff;
   border: #f8f8f8;
   padding: 20px;
 }
 
 .about-head-margin p {
-  color: #282b32;
+  color: #272a31;
   width: 50%;
 }
 
@@ -468,7 +468,7 @@ footer .footer-icon {
   align-items: center;
   width: 100%;
   background-color: #fff;
-  color: #282b32;
+  color: #272a31;
   text-align: center;
 }
 
@@ -777,8 +777,8 @@ footer .footer-icon {
   }
 
   .join-btn {
-    background-color: #ff4f38;
-    color: #f8f8f8;
+    background-color: #ec5242;
+    color: #d3d3d3;
     padding: 30px;
     margin: 20px 0;
   }
@@ -807,7 +807,7 @@ footer .footer-icon {
   .logo-img {
     width: 80%;
     height: 150px;
-    border: 1px solid #8f8f8f;
+    border: 1px solid #d3d3d3;
     margin: 30px;
   }
 
@@ -899,7 +899,7 @@ footer .footer-icon {
   }
 
   .nav-flex ul li a:hover {
-    color: #f85816;
+    color: #ec5242;
   }
 
   .join-btn {

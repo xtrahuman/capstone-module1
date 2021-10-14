@@ -29,10 +29,10 @@ Desktop view about page                  |  Mobile view main program section
 - run the project in your local machine
 
 ## project link
-click on the website and demo link below to view project
+click on the website and demo below to view project
 
-[website link](https://xtrahuman.github.io/capstone-module1/)
-[demo link](https://www.loom.com/share/2f87b03d948d401ba07b40d8b73f8b15)
+- link to website: [website link](https://xtrahuman.github.io/capstone-module1/)
+- link to loom to see video presesentation: [video link](https://www.loom.com/share/2f87b03d948d401ba07b40d8b73f8b15)
 
 ## Author
 
