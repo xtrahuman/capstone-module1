@@ -336,7 +336,7 @@ p.profile:after {
   content: "";
   background-color: #414246;
   height: 2px;
-  margin-top: 10px;
+  margin-top: 5px;
   width: 20px;
 }
 
@@ -350,23 +350,21 @@ p.profile-detail {
   justify-content: center;
   margin-bottom: 20px;
 }
+.speaker-img {
+  background-image: url('./public/checkered.png');
+  background-repeat: no-repeat;
+}
 
-.speaker-img>img {
-  position: absolute;
-  width: 60px;
-  height: 60px;
-  z-index: 0;
+.row {
+  margin: 0 -10px;
 }
 
 .speaker-img .picture>img {
-  top: 10px;
-  left: 10px;
-  position: absolute;
-  width: 80%;
+  margin-left: 10px;
+  margin-top: 10px;
   width: 80px;
-  height: 80%;
+  height: 80px;
   min-height: 90px;
-  z-index:1;
 }
 
 .footer-last {
@@ -657,6 +655,10 @@ footer img {
     line-height: 32px;
     letter-spacing: 0;
     margin: 0;
+    color: #f8f8f8;
+  }
+
+  .nav-flex  a.active {
     color: #f8f8f8;
   }
 

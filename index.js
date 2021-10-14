@@ -7,6 +7,24 @@ const bodyfixed = document.querySelector('body')
 //     speakerName: 'Aliko Dangote',
 //     speakerProfile: 'founder and ceo dangote group',
 //     profileDetails: 'Lorem ipsum dolnesciunt eius ipsum incidunt nemo commodi laborum porro temporibus laudantium placeat. An'
+// },
+// {
+//     speakerImg : './public/squaretile.png',
+//     speakerName: 'Aliko Dangote',
+//     speakerProfile: 'founder and ceo dangote group',
+//     profileDetails: 'Lorem ipsum dolnesciunt eius ipsum incidunt nemo commodi laborum porro temporibus laudantium placeat. An'
+// },
+// {
+//     speakerImg : './public/squaretile.png',
+//     speakerName: 'Aliko Dangote',
+//     speakerProfile: 'founder and ceo dangote group',
+//     profileDetails: 'Lorem ipsum dolnesciunt eius ipsum incidunt nemo commodi laborum porro temporibus laudantium placeat. An'
+// },
+// {
+//     speakerImg : './public/squaretile.png',
+//     speakerName: 'Aliko Dangote',
+//     speakerProfile: 'founder and ceo dangote group',
+//     profileDetails: 'Lorem ipsum dolnesciunt eius ipsum incidunt nemo commodi laborum porro temporibus laudantium placeat. An'
 // }
 // ]
 
