@@ -42,6 +42,11 @@ click on the website and demo below to view project
 - Twitter: [@xtrahuman](https://twitter.com/xtrahuman)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/tochukwu-okpara-449528197)
 
+## Acknowledgement
+
+**cindy shin**
+creator of original design template
+
 
 ## 🤝 Contributing
 
