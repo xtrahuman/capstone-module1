@@ -6,13 +6,13 @@
 > My first Microverse capstone project which is a fundraising program website for children in need
 
 
-Desktop view header                        |  Mobile view header
-:-----------------------------------------:|:---------------------------------------:
-![](./public/desktop-head.PNG)             |  ![](./public/mobile-head.PNG)
+Desktop view header                      |  Mobile view header
+:---------------------------------------:|:---------------------------------------:
+![](./public/desktop-head.PNG)           |  ![](./public/mobile-head.PNG)
 
-Desktop view about page                    |  Mobile view main program section
-:-----------------------------------------:|:---------------------------------------:
-![](./public/about-page-desktop.PNG)       |  ![](./public/main-program.PNG)
+Desktop view about page                  |  Mobile view main program section
+:---------------------------------------:|:---------------------------------------:
+![](./public/about-page-desktop.PNG)     |  ![](./public/main-program.PNG)
 
 
 
@@ -29,8 +29,10 @@ Desktop view about page                    |  Mobile view main program section
 - run the project in your local machine
 
 ## project link
+click on the website and demo link below to view project
 
-[upcoming]()
+[website link](https://xtrahuman.github.io/capstone-module1/)
+[demo link](https://www.loom.com/share/2f87b03d948d401ba07b40d8b73f8b15)
 
 ## Author
 
