@@ -28,7 +28,7 @@ const speakerDetails = [{
   profileDetails: 'Adenuga, Nigeria\'s second richest man, built his fortune in telecom and oil production',
 },
 {
-  speakerImg: 'public/dangote.jpg',
+  speakerImg: 'public/otedola.jpg',
   speakerName: 'femi otedola',
   speakerProfile: 'former chairman of Forte Oil PLC',
   profileDetails: 'Otedola is the founder of Zenon Petroleum and Gas Ltd, and the owner of a number of other businesses across shipping, real estate and finance',
