@@ -84,7 +84,7 @@
 
 body {
   background-color: #f7f7f7;
-  overflow-y: visible;
+  overflow-y: auto;
   font-family: "Roboto", sans-serif, Arial, Helvetica;
   font-style: normal;
   position: relative;
